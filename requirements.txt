@@ -1,0 +1,15 @@
+ipykernel 
+pandas
+requests
+matplotlib
+seaborn
+streamlit
+plotly
+dash
+python-dotenv
+websocket
+streamlit_shadcn_ui
+altair
+tensorflow
+supabase
+Flask
